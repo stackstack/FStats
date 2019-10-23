@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stackstack/Player-Records.git/static/css/main.b100e6da.chunk.css",
+    "main.js": "/stackstack/Player-Records.git/static/js/main.be6428dd.chunk.js",
+    "main.js.map": "/stackstack/Player-Records.git/static/js/main.be6428dd.chunk.js.map",
+    "runtime-main.js": "/stackstack/Player-Records.git/static/js/runtime-main.ea8a1764.js",
+    "runtime-main.js.map": "/stackstack/Player-Records.git/static/js/runtime-main.ea8a1764.js.map",
+    "static/js/2.04d7b999.chunk.js": "/stackstack/Player-Records.git/static/js/2.04d7b999.chunk.js",
+    "static/js/2.04d7b999.chunk.js.map": "/stackstack/Player-Records.git/static/js/2.04d7b999.chunk.js.map",
+    "index.html": "/stackstack/Player-Records.git/index.html",
+    "precache-manifest.28048580851ba513eeb90cd5acb96c38.js": "/stackstack/Player-Records.git/precache-manifest.28048580851ba513eeb90cd5acb96c38.js",
+    "service-worker.js": "/stackstack/Player-Records.git/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/stackstack/Player-Records.git/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/stackstack/Player-Records.git/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea8a1764.js",
+    "static/js/2.04d7b999.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.be6428dd.chunk.js"
+  ]
+}
